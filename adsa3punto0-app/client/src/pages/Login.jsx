@@ -1,4 +1,4 @@
-// src/pages/Login.jsx om
+// src/pages/Login.jsx om, mensaje w
 import React from 'react';
 import { Button, Container, Typography, Box } from '@mui/material';
 import GoogleIcon from '@mui/icons-material/Google';
